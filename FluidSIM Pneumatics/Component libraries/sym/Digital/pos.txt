@@ -1,0 +1,30 @@
+DESCR Digitaltechnik
+296 1 592 1032 0.500000 0 1
+2 1 d_mod2.ct
+3 1 d_mod.ct
+4 1 digi002.ct
+1 2 digi001.ct
+2 2 switch_d.ct
+3 2 digi0013.ct
+4 2 digi25.ct
+1 3 digi003.ct
+2 3 digi005.ct
+3 3 digi004.ct
+4 3 digi009.ct
+1 4 digi006.ct
+2 4 digi014.ct
+3 4 digi007.ct
+4 4 digi008.ct
+1 5 digi025.ct
+2 5 digi015.ct
+3 5 digi022.ct
+4 5 digi018.ct
+1 6 digi010.ct
+2 6 digi016.ct
+3 6 digi011.ct
+4 6 digi012.ct
+1 7 digi019.ct
+2 7 digi020.ct
+3 7 digi021.ct
+4 7 digi023.ct
+1 8 digi24.ct
