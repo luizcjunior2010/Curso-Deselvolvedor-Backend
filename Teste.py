@@ -1,7 +1,3 @@
-try:
-	resultado = 10 / 1
-	print(resultado)
-except :
-	print("Erro: divisão por zero.")
-finally:
-	print("Operação finalizada.")
+frase = "Luiz Carlos da Silva Junior"
+frase = frase.replace(" ","").lower()
+print(frase)
